@@ -17,7 +17,7 @@
 ## ⬇️ Download
 
 👉 Latest version: [Releases](../../releases/latest)  
-👉 Shop and licences: [glx-tools.de](https://glx-tools.de/shopuebersicht/)
+👉 Shop and licences: [glx-tools.de](https://glx-tools.de/product/glx-auto-upload/)
 
 ---
 
@@ -58,7 +58,7 @@ Passwords are stored encrypted with Windows (DPAPI) and can only be read by your
 
 ## 🔗 More about this product
 
-👉 [glx-tools.de](https://glx-tools.de/shopuebersicht/)  
+👉 [glx-tools.de](https://glx-tools.de/product/glx-auto-upload/)  
 For support: **info@glx-tools.de**
 
 ---
