@@ -21,6 +21,34 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Übersicht aller überwachten Programme
+
+<p align="center"><img src="screenshots/01.png" alt="Übersicht aller überwachten Programme" width="850"></p>
+
+### 2️⃣ Server-Zugänge (SFTP, FTP, WordPress, Nextcloud ...)
+
+<p align="center"><img src="screenshots/02.png" alt="Server-Zugänge (SFTP, FTP, WordPress, Nextcloud ...)" width="850"></p>
+
+### 3️⃣ Auf GitHub und SourceForge veröffentlichen
+
+<p align="center"><img src="screenshots/03.png" alt="Auf GitHub und SourceForge veröffentlichen" width="850"></p>
+
+### 4️⃣ Verlauf der Uploads
+
+<p align="center"><img src="screenshots/04.png" alt="Verlauf der Uploads" width="850"></p>
+
+### 5️⃣ Einstellungen, Lizenz und Update
+
+<p align="center"><img src="screenshots/05.png" alt="Einstellungen, Lizenz und Update" width="850"></p>
+
+### 6️⃣ Integrierte Hilfe
+
+<p align="center"><img src="screenshots/06.png" alt="Integrierte Hilfe" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Findet neue Versionen selbst:** Liest die Version aus Ordnername, version.json, EXE, Dateiname oder dem Inhalt einer ZIP, für Setups, Plugins, Firefox-Add-ons, Nextcloud- und Android-Apps.

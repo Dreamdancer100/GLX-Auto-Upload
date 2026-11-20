@@ -21,6 +21,34 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Overview of all watched programs
+
+<p align="center"><img src="screenshots/01.png" alt="Overview of all watched programs" width="850"></p>
+
+### 2️⃣ Server access (SFTP, FTP, WordPress, Nextcloud ...)
+
+<p align="center"><img src="screenshots/02.png" alt="Server access (SFTP, FTP, WordPress, Nextcloud ...)" width="850"></p>
+
+### 3️⃣ Publish to GitHub and SourceForge
+
+<p align="center"><img src="screenshots/03.png" alt="Publish to GitHub and SourceForge" width="850"></p>
+
+### 4️⃣ Upload history
+
+<p align="center"><img src="screenshots/04.png" alt="Upload history" width="850"></p>
+
+### 5️⃣ Settings, licence and update
+
+<p align="center"><img src="screenshots/05.png" alt="Settings, licence and update" width="850"></p>
+
+### 6️⃣ Built-in help
+
+<p align="center"><img src="screenshots/06.png" alt="Built-in help" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Finds new versions by itself:** Reads the version from the folder name, version.json, the EXE, the file name or the content of a zip, for setups, plugins, Firefox add-ons, Nextcloud and Android apps.
